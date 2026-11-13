@@ -1,8 +1,26 @@
-## 👋Hi there, I am Nghi.👋
-### Supply Chain Management | Eastern International University (EIU)
+# 👋Hi there, I am Nghi.👋
+#### A Supply Chain Management student interested in using data and technology to understand business problems at Eastern International University (EIU).
 
+# 🌱 About Me
+📦 Interested in Supply Chain Management and Logistics.
 
+📊 Exploring Business Analytics and data-driven decision-making.
 
+💡 Enjoy learning new skills and solving practical problems.
+
+🌏 Learning Chinese and improving my English.
+
+# 🎓 My Learning Journey
+1. r
+2. jk
+# 🎯 My Goals
+- Build practical projects.
+  
+- Improve my analytical and technical skills.
+  
+- Gain real-world experience in business and supply chain operations.
+  
+  
 <!--
 **nghivonguyenbbs24-code/nghivonguyenbbs24-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
