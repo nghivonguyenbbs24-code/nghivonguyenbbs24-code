@@ -12,7 +12,7 @@
 
 # 🎓 My Learning Journey
 1. MIS311-Introduction-to-Business-Analytics. [Explore more](https://github.com/nghivonguyenbbs24-code/MIS311-Introduction-to-Business-Analytics)
-2. ffff. [Explore more]()
+2. SCLM449-Process-Control-and-Improvement. [Explore more](https://github.com/nghivonguyenbbs24-code/SCLM449-Process-Control-and-Improvement)
 # 🎯 My Goals
 - Build practical projects.
   
