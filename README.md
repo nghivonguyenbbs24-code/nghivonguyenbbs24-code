@@ -11,8 +11,8 @@
 🌏 Learning Chinese and improving my English.
 
 # 🎓 My Learning Journey
-1. MIS311-Introduction-to-Business-Analytics 
-2. jk
+1. MIS311-Introduction-to-Business-Analytics. [Explore more](https://github.com/nghivonguyenbbs24-code/MIS311-Introduction-to-Business-Analytics)
+2. ffff. [Explore more]()
 # 🎯 My Goals
 - Build practical projects.
   
